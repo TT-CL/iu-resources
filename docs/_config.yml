@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: LREC 2022 - Idea Unit landing page 
+title: Idea Unit Resources page
 email: git@gecchele.dev
 description: >- # this means to ignore newlines until "baseurl:"
   This website hosts the resources published by the Tokunaga Laboratory of Computational Linguistics for LREC 2022.
