@@ -11,5 +11,5 @@ title: Resources
 *The dataset will be available soon on www.gsk.or.jp*
 ### IU Segmentation algorithm: IUExtract
 [<button>Github</button>](https://github.com/TT-CL/iuextract) [<button>PyPI</button>](https://pypi.org/project/iuextract/)
-### Annotation Tool: SAP
-[<button>Github</button>](#)
+### Annotation Tool: SAT - Segmentation and Alignment Tool
+[<button>Github</button>](https://github.com/TT-CL/sat)
