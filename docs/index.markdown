@@ -7,7 +7,7 @@ title: Resources
 ---
 ### Paper: Automating Idea Unit Segmentation and Alignment for Assessing Reading Comprehension via Summary Protocol Analysis
 [<button>Paper (PDF)</button>](#) [<button>Poster</button>](#) [<button>Anthology</button>](#) [<button>Cite</button>](#)
-### Dataset: Cycloclean 2021
+### Dataset: JUSSW 2021
 *The dataset will be available soon on www.gsk.or.jp*
 ### IU Segmentation algorithm: IUExtract
 [<button>Github</button>](https://github.com/TT-CL/iuextract) [<button>PyPI</button>](https://pypi.org/project/iuextract/)
