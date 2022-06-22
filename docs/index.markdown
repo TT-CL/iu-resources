@@ -6,7 +6,7 @@ layout: page
 title: Resources
 ---
 ### Paper: Automating Idea Unit Segmentation and Alignment for Assessing Reading Comprehension via Summary Protocol Analysis
-[<button>Paper (PDF)</button>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.498.pdf) [<button>Poster</button>](https://tt-cl.github.io/iu-resources/docs/poster.pdf) [<button>Anthology</button>](#) [<button>Cite (bib)</button>](http://www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.498.bib)
+[<button>Paper (PDF)</button>](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.498.pdf) [<button>Poster</button>](https://tt-cl.github.io/iu-resources/poster.pdf) [<button>Anthology</button>](#) [<button>Cite (bib)</button>](http://www.lrec-conf.org/proceedings/lrec2022/bib/2022.lrec-1.498.bib)
 ### Corpus: L2WS 2021
 *The corpus will be available soon on www.gsk.or.jp*
 ### IU Segmentation algorithm: IUExtract
